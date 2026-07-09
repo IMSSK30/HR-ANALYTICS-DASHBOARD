@@ -1,5 +1,3 @@
-![Dashboard Preview](SCREENSHOT/HR Dashboard.png)
-
 HR Analytics Dashboard – Employee Attrition Analysis
 📌 About the Project
 
