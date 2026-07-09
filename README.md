@@ -1,4 +1,5 @@
 HR Analytics Dashboard – Employee Attrition Analysis
+
 📌 About the Project
 
 This project is an HR Analytics Dashboard built in Power BI to analyze employee attrition and 
@@ -22,6 +23,7 @@ Power BI – Dashboard creation and data visualization
 Power Query – Data cleaning and transformation
 DAX – KPI calculations and custom measures
 Microsoft Excel – Initial data review and validation
+
 📂 Dataset
 
 The dataset contains employee-level information, including:
@@ -36,6 +38,7 @@ OverTime
 Marital Status
 Attrition Status
 Years at Company
+
 🧹 Data Cleaning & Preparation
 
 Before creating the dashboard, I prepared the dataset by performing several data cleaning steps.
@@ -80,6 +83,7 @@ Attrition Rate	Percentage of employees who left
 Average Age	Average employee age
 Average Years	Average years worked in the company
 Average Monthly Income	Average employee salary
+
 📈 Dashboard Analysis
 
 The dashboard provides analysis across multiple HR dimensions:
@@ -98,6 +102,7 @@ Department
 Job Role
 Gender
 Marital Status
+
 💡 Key Insights
 
 Some of the important observations from the dashboard are:
