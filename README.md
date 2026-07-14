@@ -4,6 +4,7 @@ About the Project
 
 -This project is an HR Analytics Dashboard built in Power BI to analyze employee attrition and 
 understand the factors that may influence employees leaving the organization.
+
 -The idea behind this project was to explore HR data and identify patterns related to employee turnover.
 By analyzing different employee attributes such as department, job role, age, salary, overtime, education, and job satisfaction,
 I created an interactive dashboard that helps HR teams gain useful insights for improving employee retention.
