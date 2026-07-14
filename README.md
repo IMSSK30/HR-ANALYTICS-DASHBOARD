@@ -122,4 +122,4 @@ Review workload and career growth opportunities in departments with high attriti
 Improve retention strategies for employees in the 26–35 age group.
 Monitor overtime policies to improve work-life balance.
 Re-evaluate compensation for lower salary groups.
-Conduct regular employee feedback surveys to identify concerns before employees deci
+Conduct regular employee feedback surveys.
