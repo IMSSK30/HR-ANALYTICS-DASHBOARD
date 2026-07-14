@@ -1,6 +1,6 @@
 # HR Analytics Dashboard – Employee Attrition Analysis
 
-About the Project
+## About the Project
 
 -This project is an HR Analytics Dashboard built in Power BI to analyze employee attrition and 
 understand the factors that may influence employees leaving the organization.
@@ -9,7 +9,7 @@ understand the factors that may influence employees leaving the organization.
 By analyzing different employee attributes such as department, job role, age, salary, overtime, education, and job satisfaction,
 I created an interactive dashboard that helps HR teams gain useful insights for improving employee retention.
 
-Project Objective
+## Project Objective
 
 The main objectives of this project were:
 
@@ -25,7 +25,7 @@ Power Query – Data cleaning and transformation
 DAX – KPI calculations and custom measures
 Microsoft Excel – Initial data review and validation
 
-Dataset
+## Dataset
 
 The dataset contains employee-level information, including:
 
@@ -40,7 +40,7 @@ Marital Status
 Attrition Status
 Years at Company
 
-Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 Before creating the dashboard, I prepared the dataset by performing several data cleaning steps.
 
@@ -73,7 +73,7 @@ Medium
 High
 Very High
 
-KPI Metrics
+## KPI Metrics
 
 The dashboard includes the following KPIs:
 
@@ -85,7 +85,7 @@ Average Age	Average employee age
 Average Years	Average years worked in the company
 Average Monthly Income	Average employee salary
 
-Dashboard Analysis
+## Dashboard Analysis
 
 The dashboard provides analysis across multiple HR dimensions:
 
@@ -104,7 +104,7 @@ Job Role
 Gender
 Marital Status
 
-Key Insights
+## Key Insights
 
 Some of the important observations from the dashboard are:
 
@@ -115,7 +115,7 @@ Employees who worked overtime had higher attrition compared to those who did not
 Most employees leaving the company belonged to the 0–5000 salary group.
 Attrition was observed across all job satisfaction levels, indicating that employee turnover depends on multiple factors rather than a single reason.
 
-Business Recommendations
+## Business Recommendations
 
 Based on the analysis, a few recommendations are:
 
