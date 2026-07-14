@@ -12,12 +12,14 @@ I created an interactive dashboard that helps HR teams gain useful insights for 
 Project Objective
 
 The main objectives of this project were:
+
 Analyze overall employee attrition.
 Find departments and job roles with higher employee turnover.
 Understand how age, salary, overtime, education, and job satisfaction relate to attrition.
 Build an interactive dashboard for HR reporting.
 Generate business insights that can support better retention strategies.
-🛠️ Tools & Technologies Used
+
+Tools & Technologies Used
 Power BI – Dashboard creation and data visualization
 Power Query – Data cleaning and transformation
 DAX – KPI calculations and custom measures
@@ -26,6 +28,7 @@ Microsoft Excel – Initial data review and validation
 Dataset
 
 The dataset contains employee-level information, including:
+
 Employee Age
 Department
 Job Role
@@ -40,6 +43,7 @@ Years at Company
 Data Cleaning & Preparation
 
 Before creating the dashboard, I prepared the dataset by performing several data cleaning steps.
+
 Checked and corrected data types
 Reviewed missing values
 Validated employee records
@@ -72,6 +76,7 @@ Very High
 KPI Metrics
 
 The dashboard includes the following KPIs:
+
 Total Employees	Total employees in the dataset
 Active Employees	Employees currently working
 Attrition Count	Employees who left the company
@@ -83,6 +88,7 @@ Average Monthly Income	Average employee salary
 Dashboard Analysis
 
 The dashboard provides analysis across multiple HR dimensions:
+
 Department-wise Attrition
 Job Role-wise Attrition
 Age Group-wise Attrition
@@ -92,6 +98,7 @@ Income Group-wise Attrition
 Overtime-wise Attrition
 
 Users can also filter the dashboard using:
+
 Department
 Job Role
 Gender
@@ -100,6 +107,7 @@ Marital Status
 Key Insights
 
 Some of the important observations from the dashboard are:
+
 Research & Development recorded the highest employee attrition.
 Laboratory Technicians experienced the highest attrition among all job roles.
 Employees aged 26–35 years showed the highest turnover.
@@ -110,6 +118,7 @@ Attrition was observed across all job satisfaction levels, indicating that emplo
 Business Recommendations
 
 Based on the analysis, a few recommendations are:
+
 Review workload and career growth opportunities in departments with high attrition.
 Improve retention strategies for employees in the 26–35 age group.
 Monitor overtime policies to improve work-life balance.
